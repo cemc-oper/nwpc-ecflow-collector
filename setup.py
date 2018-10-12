@@ -15,7 +15,7 @@ setup(
     description='An ecFlow collector at NWPC.',
     long_description=long_description,
 
-    url='https://github.com/perillaroc/nwpc-log-collector',
+    url='https://github.com/perillaroc/nwpc-system-collector',
 
     author='perillaroc',
     author_email='perillaroc@gmail.com',
